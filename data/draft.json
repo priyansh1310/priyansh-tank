@@ -1,21 +1,161 @@
 {
-    "templateId": "glass",
-    "theme": "dark",
-    "updatedAt": 0,
-    "responsibilities": "",
-    "profile": {
-        "fullName": "",
-        "headline": "",
-        "location": "",
-        "email": "",
-        "phone": "",
-        "website": "",
-        "github": "",
-        "linkedin": "",
-        "summary": ""
+  "updatedAt": 1771958043326,
+  "theme": "dark",
+  "responsibilities": "",
+  "templateId": "neo",
+  "profile": {
+    "fullName": "PRIYANSH TANK",
+    "headline": "AI & Full-Stack Developer | Turning data and ideas into real products",
+    "location": "Mumbai",
+    "email": "priyanshtank78@gmail.com",
+    "phone": "+91-7208661167",
+    "website": "",
+    "github": "https://github.com/priyansh1310",
+    "linkedin": "https://www.linkedin.com/in/priyanshtank1013/",
+    "summary": "Developing practical AI and app solutions for everyday users"
+  },
+  "experience": [
+    {
+      "company": "AirMatters",
+      "role": "Web Developement Intern",
+      "start": "Jan 2026",
+      "end": "Feb 2026",
+      "highlights": [
+        "Compiled Website for payment integration and product display.",
+        "Coordinated with marketing team for better insights.",
+        "Led and managed various workflows and APIs.",
+        "Used React and paymentGetaway for website creation."
+      ]
     },
-    "experience": [],
-    "projects": [],
-    "skills": [],
-    "education": []
+    {
+      "company": "SENKUSHA",
+      "role": "App Developer",
+      "start": "June 2025",
+      "end": "Aug 2025",
+      "highlights": [
+        "Designed and developed Flutter-based mobile interfaces for a food classification app.",
+        "Integrated PostgreSQL backend and APIs.",
+        "Built barcode scanning, onboarding, and product detail user flows.",
+        "Collaborated with web dev team to integrate app on various other websites."
+      ]
+    },
+    {
+      "company": "Programmatix Institute",
+      "role": "Management Intern",
+      "start": "June 2023",
+      "end": "Dec 2025",
+      "highlights": [
+        "Assisted in AI-based exam paper creation, organization, and review.",
+        "Supported student performance analysis and AI-driven scheduling automation for efficient academic planning."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nutrigen — Food Classification App",
+      "link": "",
+      "tech": [
+        "Flutter",
+        "Firebase",
+        "PostgreSQL",
+        "Barcode Scanner APIs"
+      ],
+      "description": "Built a mobile app to scan food product barcodes and classify items as Veg, Non-Veg, or Eggetarian.",
+      "highlights": [
+        "Integrated Firebase authentication and backend APIs for real-time food label interpretation.",
+        "Designed structured navigation, animations, and detailed product screens."
+      ]
+    },
+    {
+      "name": "AirMatters Website",
+      "link": "",
+      "tech": [
+        "React",
+        "RazorPay",
+        "PostgreSQL",
+        "APIs"
+      ],
+      "description": "Created a UI-UX Design using Figma. Built a website to launch product - Air Purifier using micro-algae.",
+      "highlights": [
+        "Built and designed marketing phamplets from scratch.",
+        "Designed packaging designs for audience engagement."
+      ]
+    },
+    {
+      "name": "Online Learning App for Neurodivergent Students",
+      "link": "",
+      "tech": [
+        "Figma",
+        "UI/UX Design",
+        "Prototyping"
+      ],
+      "description": "Designed a responsive and intuitive online learning app prototype in Figma, including onboarding, course listings, video lessons, progress tracking, and user profiles.",
+      "highlights": [
+        "Created interactive navigation flows for improved accessibility and usability."
+      ]
+    },
+    {
+      "name": "AI-Driven Demand Forecasting System",
+      "link": "",
+      "tech": [
+        "Web UI",
+        "Dashboards",
+        "Chatbot UI",
+        "Responsive Design"
+      ],
+      "description": "Designed an intuitive, multilingual web interface for farmers with interactive dashboards, AI-powered input forms, chatbot integration, and visual forecasting components.",
+      "highlights": [
+        "Built structured user flows for login, profile, crop management, and access to government schemes."
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Flutter",
+    "SQL",
+    "PostgreSQL",
+    "MySQL",
+    "Deep Learning",
+    "Regression",
+    "Advanced Statistics",
+    "VS Code",
+    "Jupyter Notebook",
+    "Google Colab",
+    "GitHub",
+    "Docker",
+    "MySQL Workbench",
+    "Advanced Excel",
+    "Leadership",
+    "Teamwork",
+    "Communication",
+    "Problem-Solving"
+  ],
+  "education": [
+    {
+      "school": "Dwarkadas J. Sanghvi College of Engineering",
+      "degree": "B.Tech Artificial Intelligence and Machine Learning",
+      "start": "2022",
+      "end": "Current",
+      "notes": "CGPA - 7.80"
+    },
+    {
+      "school": "T.P. Bhatia Junior College",
+      "degree": "Higher Secondary Examination (HSC)",
+      "start": "2020",
+      "end": "2022",
+      "notes": "Percentage - 62%"
+    },
+    {
+      "school": "Our Lady of Remedy High School",
+      "degree": "Secondary School Examination (SSC)",
+      "start": "2009",
+      "end": "2020",
+      "notes": "Percentage - 83%"
+    }
+  ]
 }
